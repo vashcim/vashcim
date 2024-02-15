@@ -12,15 +12,11 @@
 </h2>
 
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Discord+Hesaplarım's" alt="Typing SVG" /></h1>
-
 <h2 align="center">
  <a href="https://discord.com/users/1200583963513733230"><img  width="400px" src="https://lanyard-profile-readme.vercel.app/api/1200583963513733230?theme=light&bg=&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."></a>
 </br>
 
  </h2>
-
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=vashcim&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
   
